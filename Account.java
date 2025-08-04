@@ -79,7 +79,7 @@ public class Account {
         }
         else
         {
-            System.out.println("Enter Amount in Multiple of 500.");
+            System.out.println("Enter Amount in Multiple of 100, 200 or 500.");
         }
 
     }
@@ -110,3 +110,4 @@ public class Account {
 
 
 }
+
